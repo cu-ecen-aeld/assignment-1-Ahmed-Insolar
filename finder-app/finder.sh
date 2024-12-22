@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#fix
 if [ $# -lt 2 ] ;
 then
 	echo -e Two arguments are needed to use this app
