@@ -1,4 +1,5 @@
 #!/bin/bash
+#hi
 DIR_PATH=$(dirname $1)
 FILE_NAME=$(basename $1)
 set -e
